@@ -83,6 +83,7 @@ A sleek and intuitive task management application built with Django and Bootstra
    ```
 
 📱 Screenshots
+
 Task-List:
 ![task-list](https://github.com/user-attachments/assets/1351d97e-af81-4444-a214-fe0048c9fa02)
 
