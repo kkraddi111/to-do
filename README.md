@@ -84,14 +84,11 @@ A sleek and intuitive task management application built with Django and Bootstra
 
 📱 Screenshots
 
-```markdown
-![Task List View](screenshots/task-list.png)
-![Task Creation](screenshots/task-create.png)
-![Task Search](screenshots/task-search.png)
-![Task Edit](screenshots/task-edit.png)
-![Task Delete](screenshots/task-delete.png)
-
-```
+![task-list](https://github.com/user-attachments/assets/1351d97e-af81-4444-a214-fe0048c9fa02)
+![task-create](https://github.com/user-attachments/assets/5138e762-579d-4486-b0c2-62f585e771f9)
+![task-edit](https://github.com/user-attachments/assets/512b05e2-1479-494f-b115-3da1188cd596)
+![task-search](https://github.com/user-attachments/assets/61f8a6d0-0fbf-4f2e-9ac7-267b472787c3)
+![task-delete](https://github.com/user-attachments/assets/9a1b72ca-da9c-4d7c-81a1-e069f8cfa877)
 
 🌟 Key Features Explained
 
